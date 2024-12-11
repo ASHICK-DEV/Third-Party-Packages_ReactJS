@@ -25,6 +25,8 @@ export const MobileHomeImage = styled.img`
 export const DesktopHomeImage = styled.img`
   width: 100%;
   max-width: 1150px;
+  margin-top:10px
+  
 
   @media screen and (max-width: 767px) {
     display: none;
