@@ -1,0 +1,14 @@
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+}
+/* .own {
+  font-size: 15px;
+  font-family: 'Roboto';
+  text-decoration: line-through;
+  color: rgb(118, 223, 255);
+} */
